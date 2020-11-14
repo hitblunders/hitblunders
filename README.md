@@ -64,3 +64,7 @@ Here are some ideas to get you started:
 <a href="mailto:codingninja576@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codingninja576@gmail.com-pink?style=flat-square&logo=gmail"></a>
 </p>
 </br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hitblunders&&show_icons=true&count_private=true"/>
+</p>
